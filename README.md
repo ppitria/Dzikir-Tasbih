@@ -1,16 +1,7 @@
-# project_dzikir
+# Aplikasi Dzikr
 
-A new Flutter project.
+Telah hadir aplikasi Dzikr yang mampu mempermudah dan membantu untuk senantiasa berdzikir kapan pun dan dimana pun.
 
-## Getting Started
+Mari unduh aplikasi melalui Google Playstore: [Dzikr](https://play.google.com/store/apps/details?id=com.uaspam.dzikir_tasbih)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Adapun dokumentasi berupa Pitch Deck dapat dilihat melalui: [Pitch Deck](https://youtu.be/p2T35cKmQGA?si=BmnEsH1inAcBXq6Q)

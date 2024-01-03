@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501563863531",
+    "project_id": "dzikir-tasbih",
+    "storage_bucket": "dzikir-tasbih.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501563863531:android:3db567ce1f658e6c9fe9ae",
+        "android_client_info": {
+          "package_name": "com.uaspam.project_dzikir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGx5sS636pa4oC5fswbOJ4qmpqm2R497Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

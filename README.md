@@ -6,4 +6,4 @@ Mari unduh aplikasi melalui Google Playstore: [Dzikr](https://play.google.com/st
 
 Adapun dokumentasi berupa Pitch Deck dapat dilihat melalui: [Pitch Deck](https://youtu.be/p2T35cKmQGA?si=BmnEsH1inAcBXq6Q)
 
-Dokumen Pitch Deck : [Dokumen Pitch Deck](https://www.canva.com/design/DAF4y8_eqEs/TN_iGZo1KmcBTxXoVT21uQ/).
+Dokumen Pitch Deck : [Dokumen Pitch Deck](https://www.canva.com/design/DAF4y8_eqEs/TN_iGZo1KmcBTxXoVT21uQ/edit).

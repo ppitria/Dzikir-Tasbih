@@ -10,6 +10,8 @@ Adapun dokumentasi berupa Pitch Deck dapat dilihat melalui: [Pitch Deck](https:/
 
 Dokumen Pitch Deck : [Dokumen Pitch Deck](https://www.canva.com/design/DAF4y8_eqEs/TN_iGZo1KmcBTxXoVT21uQ/edit).
 
+REST API dibuat secara mandiri, terdapat pada [repositori](https://github.com/ppitria/dzikr.git) atau pada [link](https://dzikr-omega.vercel.app/dzikir-pagi) dan [link](https://dzikr-omega.vercel.app/dzikir-sore)
+
 # Anggota Tim
 1. Nanda Tiara Sabina Hidayatulloh (1217050108)
 2. Nur Halizah (1217050113)
